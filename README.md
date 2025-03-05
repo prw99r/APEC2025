@@ -1,9 +1,9 @@
 # APEC2025 - IS10.3 Peter Wilson
 Some Examples from the APEC 2025 IS10 Session
 
-## A Simple Example of an Artificial Neural Network to identify parameters for a DC/DC Converter
+## 1. A Simple Example of an Artificial Neural Network to identify parameters for a DC/DC Converter
 
-### makeTrainingdata.py
+### 1.1 makeTrainingdata.py
 
 This Python code will make a dataset for a DC/DC converter with a nominal parameter set of:
 
@@ -15,7 +15,7 @@ and generate 1000 samples with design points for L, C and R using a uniform rand
 
 The output dataset is then stored in a dataframe within a csv file called "buck_converter_data.csv"
 
-### trainNN.py
+### 1.2 trainNN.py
 
 This python code will use the previously generated dataset to train a Neural Network to identify suitable values for L,C and R to meet the design specification from the dataset.
 
