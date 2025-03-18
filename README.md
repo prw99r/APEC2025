@@ -11,3 +11,13 @@ Applied to identify parameters for a DC/DC Converter using basic equations
 
 [Python Code to train and run the neural network](nn/trainNN.py)
 
+## Example 2. A Simple Example of simulated annealing optimization
+
+Applied to optimize data sets and functions using simulated annealing
+
+## Files used
+[Instructions](sa/readme.md)
+
+[Python Code to optimize a line fit](sa/sa_linefit.py)
+
+[Python Code to optimize a power grid supply to demand](sa/sa_example.py)
