@@ -33,8 +33,8 @@ The resulting training and validation response is plotted, along with a printed 
 
 Example of running over 100 epochs:
 
-Model Loss: 0.4750613570213318
-Predicted Voltage Ripple: 0.012823262251913548
-Predicted Efficiency: 0.8310545086860657
+* Model Loss: 0.4750613570213318
+* Predicted Voltage Ripple: 0.012823262251913548
+* Predicted Efficiency: 0.8310545086860657
 
 ![image](https://github.com/user-attachments/assets/10527308-08f1-4ea9-af79-de00f40282b6)
