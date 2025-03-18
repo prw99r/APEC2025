@@ -21,3 +21,12 @@ Applied to optimize data sets and functions using simulated annealing
 [Python Code to optimize a line fit](sa/sa_linear.py)
 
 [Python Code to optimize a power grid supply to demand](sa/sa_example.py)
+
+## Example 3. A Simple Example of genetic algorithm optimization
+
+Applied to optimize functions using genetic algorithms
+
+## Files used
+[Instructions](sa/readme.md)
+
+[Python Code to optimize a line fit](ga/ga_linefit.py)
