@@ -1,5 +1,7 @@
 # Some examples of Computational Intelligence Algorithms
 
+These are a small set of simple examples to illustrate how various computational intelligence algorithms work using very basic examples. 
+
 ## Example 1. A Simple Example of an Artificial Neural Network
 
 Applied to identify parameters for a DC/DC Converter using basic equations
