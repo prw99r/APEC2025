@@ -1,6 +1,8 @@
 # Some examples of Computational Intelligence Algorithms
 
-## Example 1. A Simple Example of an Artificial Neural Network to identify parameters for a DC/DC Converter
+## Example 1. A Simple Example of an Artificial Neural Network
+
+Applied to identify parameters for a DC/DC Converter using basic equations
 
 ## Files used
 [Instructions](nn/readme.md)
