@@ -3,7 +3,8 @@
 ## Example 1. A Simple Example of an Artificial Neural Network to identify parameters for a DC/DC Converter
 
 ## Files used
-![nn/trainNN.py](nn/trainNN.py)
+![Instructions](nn/readme.md)
+![Python Code to make training data](nn/makeTrainingdata.py)
 
-![nn/trainNN.py](nn/trainNN.py)
+![Python Code to train and run the neural network](nn/trainNN.py)
 
