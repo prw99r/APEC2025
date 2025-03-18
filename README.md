@@ -18,6 +18,6 @@ Applied to optimize data sets and functions using simulated annealing
 ## Files used
 [Instructions](sa/readme.md)
 
-[Python Code to optimize a line fit](sa/sa_linefit.py)
+[Python Code to optimize a line fit](sa/sa_linear.py)
 
 [Python Code to optimize a power grid supply to demand](sa/sa_example.py)
