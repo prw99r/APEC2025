@@ -1,4 +1,4 @@
-# 1. A Simple Example of an Artificial Neural Network to identify parameters for a DC/DC Converter
+# Example 1. A Simple Example of an Artificial Neural Network to identify parameters for a DC/DC Converter
 
 ## 1.1 Files used
 makeTrainingdata.py
