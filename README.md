@@ -1,4 +1,4 @@
-# Some examples of Computational Intelligence Algorithms
+# Some examples of Computational Intelligence Algorithms for Learning
 
 These are a small set of simple examples to illustrate how various computational intelligence algorithms work using very basic examples. 
 
